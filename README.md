@@ -2,6 +2,20 @@
 
 Este proyecto consiste en una API sencilla que simula los procesos de una aplicación externa cuya única funcionalidad es un CRUD de datos. Sin embargo, incluye todas las validaciones necesarias para autenticación, configuración de CORS, middlewares para la validación de campos y estructuras esperadas, así como la documentación de errores.
 
+<details>
+
+<summary> 📍 Este repositorio forma parte de un grupo.</summary>
+
+<br/>
+
+ > [Frontend](https://github.com/AgusG912/challenge-1-front-end)
+
+ > [Backend](https://github.com/AgusG912/challenge-1-back-end)
+
+ > **📌 Marketplace**
+
+</details>
+
 ## 📦 Características
 
 - **Autenticación**: Implementación de validaciones para garantizar la seguridad de las solicitudes.
